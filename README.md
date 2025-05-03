@@ -12,7 +12,7 @@ Este projeto consiste no desenvolvimento de uma aplicação de gestão para um s
 
 ---
 
-## 📋 Funcionalidades
+## 📋 Algumas das Funcionalidades
 
 ### 🔹 Clientes
 - Inserção, consulta e listagem de clientes
