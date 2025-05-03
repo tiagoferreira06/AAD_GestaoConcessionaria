@@ -1,7 +1,7 @@
 # 🚗 Sistema de Gestão - Stand Automóvel Ferrari
 Cadeira - Armazenamento e Acesso a Dados
 
-Este projeto consiste no desenvolvimento de uma aplicação de gestão para um stand automóvel da Ferrari, com foco no registo e administração de clientes, funcionários, veículos, vendas e orçamentos.
+Este projeto consiste no desenvolvimento de uma aplicação de gestão para um stand automóvel da Ferrari, com foco no registo e administração de clientes, funcionários, veículos e vendas.
 
 ## 🧰 Tecnologias Utilizadas
 
