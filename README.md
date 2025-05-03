@@ -20,21 +20,20 @@ Este projeto consiste no desenvolvimento de uma aplicação de gestão para um s
 
 ### 🔹 Funcionários
 - Inserção e gestão de funcionários
-- Atributos: nome, cargo, contacto
+- Atributos: nome, cargo, contacto, endereço, salário
 
 ### 🔹 Carros
 - Registo de veículos disponíveis para venda
-- Campos: modelo, ano, preço, estado (disponível/vendido)
+- Campos: modelo, ano, preço, estado (disponível/vendido), km
 
 ### 🔹 Vendas
 - Associação de carros vendidos a clientes e funcionários
 - Registo da data e valor da venda
 - Atualização automática do estado do carro
 
-### 🔹 Orçamentos
-- Criação de orçamentos para potenciais clientes
-- Inclui valor proposto e dados do veículo
-
+### 🔹 Promoções
+- Associação de promoções a determinada categoria do carro
+- Registo da percentagem de promoção e datas de inicio e fim
 ---
 
 ## 🗃️ Base de Dados
